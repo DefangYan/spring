@@ -54,6 +54,12 @@
             <version>1.5.15</version>
         </dependency>
 
+        <!-- MYSQL包 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
