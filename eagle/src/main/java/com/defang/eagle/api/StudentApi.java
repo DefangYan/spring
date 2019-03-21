@@ -20,6 +20,7 @@ public class StudentApi {
 
     @ApiOperation("根据姓名查询Student")
     @GetMapping(value = "api/v1/findStudentByName/{name}")
+    // 此处巨坑，用了@PathVariable 注解之后 value = "api/v1/findStudentByName/必须加上{name}
     public List<Student> findStudentByName(@PathVariable String name) {
         System.out.println(name);
         return studentService.findStudentByName(name); }

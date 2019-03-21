@@ -1,6 +1,6 @@
-package com.defang.Service;
+package com.defang.demoforcache.Service;
 
-import com.defang.entity.User;
+import com.defang.demoforcache.entity.User;
 
 /**
  * @author defang.yan

@@ -1,4 +1,4 @@
-package com.defang.entity;
+package com.defang.demoforcache.entity;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.defang.Service;
+package com.defang.demoforcache.Service;
 
-import com.defang.entity.User;
+import com.defang.demoforcache.entity.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cache.annotation.CacheEvict;
