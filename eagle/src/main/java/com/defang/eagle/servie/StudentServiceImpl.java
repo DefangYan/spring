@@ -1,7 +1,7 @@
-package com.defang.servie;
+package com.defang.eagle.servie;
 
-import com.defang.dao.StudentDao;
-import com.defang.entity.Student;
+import com.defang.eagle.dao.StudentDao;
+import com.defang.eagle.entity.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

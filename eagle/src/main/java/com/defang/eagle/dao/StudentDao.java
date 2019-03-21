@@ -1,6 +1,6 @@
-package com.defang.dao;
+package com.defang.eagle.dao;
 
-import com.defang.entity.Student;
+import com.defang.eagle.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.defang.servie;
+package com.defang.eagle.servie;
 
-import com.defang.entity.Student;
+import com.defang.eagle.entity.Student;
 
 import java.util.List;
 

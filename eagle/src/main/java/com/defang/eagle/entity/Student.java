@@ -1,4 +1,4 @@
-package com.defang.entity;
+package com.defang.eagle.entity;
 
 import lombok.Data;
 
