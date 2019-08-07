@@ -42,12 +42,12 @@ public class Test {
 
 
 
-        jdbc数据库链接步骤
-                1、加载驱动   class.forname(driver 驱动路径)
-                2、数据库连接 DriverMannager.getConnection(数据库地址,数据库用户名,数据库密码)
-                3、创建statement对象,connection.createStatement
-                4、编写sql
-                5、执行sql execute
+//        jdbc数据库链接步骤
+//                1、加载驱动   class.forname(driver 驱动路径)
+//                2、数据库连接 DriverMannager.getConnection(数据库地址,数据库用户名,数据库密码)
+//                3、创建statement对象,connection.createStatement
+//                4、编写sql
+//                5、执行sql execute
 
 
 
